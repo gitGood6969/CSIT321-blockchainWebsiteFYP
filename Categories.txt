@@ -1,0 +1,12 @@
+Home and Lifestyle:categoryicons/home2.png
+Sports:categoryicons/sports.png
+Music:categoryicons/music.png
+Clothing:categoryicons/clothing.png
+Computer and Accessories:categoryicons/computer.png
+Mobile Phones and Gadgets:categoryicons/mobile.png
+General Electronics:categoryicons/electronics.png
+Jobs and Services:categoryicons/Services.png
+Vehicles and Accessories:categoryicons/Vehicle.png
+Beauty and Skincare:categoryicons/beauty.png
+Tickets and Vouchers:categoryicons/tickets.png
+Pet Supplies and Accessories:categoryicons/pets.png
